@@ -7,8 +7,8 @@ Welcome to my GitHub profile! Here you'll find a variety of projects I'm working
 - System engineering student
 
 ## Skills
-Python ![Python_logo](https://i.imgur.com/i061IDa.png) ⭐⭐⭐⭐★ <br>
-Java ![Java_logo](https://i.imgur.com/6g2iAB3.png) ⭐⭐⭐★★<br>
+![Python_logo](https://i.imgur.com/i061IDa.png) <br>⭐⭐⭐⭐★ <br>
+![Java_logo](https://i.imgur.com/6g2iAB3.png) <br>⭐⭐⭐★★<br>
 
 
 ## Contact Me
