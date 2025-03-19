@@ -8,11 +8,13 @@ Welcome to my GitHub profile! Here you'll find a variety of projects I'm working
 - 🌱 I’m currently learning [Technology/Framework]
 - 👯 I’m looking to collaborate on [Project/Interest]
 - 💬 Ask me about [Topic]
-![Alt text](https://w1.pngwing.com/pngs/835/530/png-transparent-python-logo-programming-language-computer-programming-python-programming-basics-for-absolute-beginners-scripting-language-source-code-php-code-climate-inc.png)
+
 ## My Projects
 - [Project 1](#) - Description of project 1
 - [Project 2](#) - Description of project 2
 
+## Skills
+![Alt text](https://cdn.iconscout.com/icon/free/png-256/free-python-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-5-pack-logos-icons-3030224.png?f=webp) ⭐⭐⭐⭐
 ## Contact Me
 - [Email](mailto:your-email@example.com)
 - [LinkedIn](https://www.linkedin.com/in/your-profile/)
