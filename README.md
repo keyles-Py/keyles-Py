@@ -5,16 +5,16 @@ Welcome to my GitHub profile! Here you'll find a variety of projects I'm working
 
 ## About Me
 - System engineering student
-- Colombian
+- 🇨🇴
 - 24 years old
 
 ## Skills
-![Alt text](https://i.imgur.com/i061IDa.png) 
-⭐⭐⭐⭐★
+![Python_logo](https://i.imgur.com/i061IDa.png) ![Java_logo](https://static-00.iconduck.com/assets.00/java-icon-256x256-k4ufhihr.png)
+⭐⭐⭐⭐★ ⭐⭐⭐★★
 
 ## Contact Me
 - [Email](mailto:keynerismo@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/keinermendoza/)
 
 ## Sayonara
-![DogSayonara!](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHFiMXV5aTJtcDBuc3RsMDMzdmhnY28ya2NoM2JjOThjcms4ejd2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wj7lNjMNDxSmc/giphy.gif)
+![DogSayonara!](https://i.imgur.com/NEdsmYR.gif)
