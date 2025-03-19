@@ -5,12 +5,10 @@ Welcome to my GitHub profile! Here you'll find a variety of projects I'm working
 
 ## About Me
 - System engineering student
-- 🇨🇴
-- 24 years old
 
 ## Skills
 ![Python_logo](https://i.imgur.com/i061IDa.png)  ![Java_logo](https://i.imgur.com/6g2iAB3.png) <br>
-⭐⭐⭐⭐★|---|⭐⭐⭐★★
+⭐⭐⭐⭐★|-----|⭐⭐⭐★★
 
 ## Contact Me
 - [Email](mailto:keynerismo@gmail.com)
