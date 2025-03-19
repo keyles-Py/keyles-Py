@@ -14,7 +14,7 @@ Welcome to my GitHub profile! Here you'll find a variety of projects I'm working
 - [Project 2](#) - Description of project 2
 
 ## Skills
-![Alt text](https://cdn.iconscout.com/icon/free/png-256/free-python-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-5-pack-logos-icons-3030224.png?f=webp) ⭐⭐⭐⭐
+![Alt text](https://imgur.com/i061IDa) ⭐⭐⭐⭐
 ## Contact Me
 - [Email](mailto:your-email@example.com)
 - [LinkedIn](https://www.linkedin.com/in/your-profile/)
