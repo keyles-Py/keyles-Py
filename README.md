@@ -4,7 +4,11 @@
 Welcome to my GitHub profile! Here you'll find a variety of projects I'm working on.
 
 ## About Me
-- System engineering student
+- System Engineering Student
+- Enjoys game development as a personal project
+- Learning Django and Spring Boot
+- Knowledgeable in Git and version control
+- Familiar with design patterns and SOLID principles
 
 ## Skills
 ![Python_logo](https://i.imgur.com/i061IDa.png) <br>⭐⭐⭐⭐★ (Python)<br>
@@ -15,5 +19,5 @@ Welcome to my GitHub profile! Here you'll find a variety of projects I'm working
 - [Email](mailto:keynerismo@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/keinermendoza/)
 
-## Sayonara
+## Thanks for reading
 ![DogSayonara!](https://i.imgur.com/NEdsmYR.gif)
